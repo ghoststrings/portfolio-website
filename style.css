@@ -67,7 +67,7 @@ footer {
 }
 
 .product {
-  background: white;
+  background: rgb(123, 180, 17);
   padding: 1em;
   border-radius: 8px;
   box-shadow: 0 2px 6px rgba(0,0,0,0.1);
@@ -82,7 +82,7 @@ footer {
   margin-top: 1em;
   padding: 10px 15px;
   border: none;
-  background: #007acc;
+  background: #8a9905;
   color: white;
   cursor: pointer;
   border-radius: 4px;
@@ -90,5 +90,5 @@ footer {
 }
 
 .product button:hover {
-  background: #005f99;
+  background: #8f9900;
 }
